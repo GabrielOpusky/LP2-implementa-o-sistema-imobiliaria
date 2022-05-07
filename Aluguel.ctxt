@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Aluguel
+comment1.params=valorAcertado\ vencimento\ validadeContrato\ numeroContrato\ pagamentoMensais
+comment1.target=Aluguel(double,\ int,\ java.util.Date,\ int,\ double)
+comment10.params=
+comment10.target=double\ getPagamentoMensais()
+comment11.params=pagamentoMensais
+comment11.target=void\ setPagamentoMensais(double)
+comment2.params=
+comment2.target=double\ getValorAcertado()
+comment3.params=valorAcertado
+comment3.target=void\ setValorAcertado(double)
+comment4.params=
+comment4.target=int\ getVencimento()
+comment5.params=vencimento
+comment5.target=void\ setVencimento(int)
+comment6.params=
+comment6.target=java.util.Date\ getValidadeContrato()
+comment7.params=validadeContrato
+comment7.target=void\ setValidadeContrato(java.util.Date)
+comment8.params=
+comment8.target=int\ getNumeroContrato()
+comment9.params=numeroContrato
+comment9.target=void\ setNumeroContrato(int)
+numComments=12

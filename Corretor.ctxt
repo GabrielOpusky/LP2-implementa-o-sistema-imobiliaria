@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Corretor
+comment1.params=nome\ registro\ telefone\ endereco\ creci\ taxaCorretagem
+comment1.target=Corretor(java.lang.String,\ java.lang.String,\ java.lang.String,\ Endereco,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getCreci()
+comment3.params=creci
+comment3.target=void\ setCreci(java.lang.String)
+comment4.params=
+comment4.target=double\ getTaxaCorretagem()
+comment5.params=taxaCorretagem
+comment5.target=void\ setTaxaCorretagem(double)
+numComments=6
